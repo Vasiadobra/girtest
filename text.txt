@@ -1,0 +1,2 @@
+The first file, that created for learning
+and sending to git-hub
